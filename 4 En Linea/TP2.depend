@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1165008166 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmp.cpp
+	"EasyBMP.h"
+
+1165007134 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1165006952 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmp_datastructures.h
+
+1165008030 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmp_bmp.h
+
+1165006962 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmp_variousbmputilities.h
+
+1164945882 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\easybmpsample.cpp
+	"EasyBMP.h"
+
+1561133063 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	"juego.h"
+
+1561100278 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\jugador.cpp
+	"jugador.h"
+	<string>
+
+1561100205 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\jugador.h
+	"mazo_de_cartas.h"
+	"ficha.h"
+	"tablero.h"
+	<string>
+
+1562095276 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\juego.cpp
+	"juego.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1562095158 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\juego.h
+	"mazo_de_cartas.h"
+	"lista_enlazada.h"
+	"jugador.h"
+	"tablero.h"
+	"carta.h"
+	"ficha.h"
+
+1562095855 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\lista_enlazada.h
+	"Nodo.h"
+
+1560260494 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\nodo.h
+
+1585781202 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\tablero.h
+	"lista_enlazada.h"
+	"ficha.h"
+	"EasyBMP.h"
+
+1562095655 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\carta.h
+	"ficha.h"
+	"jugador.h"
+	"tablero.h"
+	"lista_enlazada.h"
+	<string>
+
+1560484164 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\ficha.h
+	<string>
+
+1562078790 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\ficha.cpp
+	"ficha.h"
+	<stdlib.h>
+	<time.h>
+
+1562165657 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\tablero.cpp
+	"tablero.h"
+
+1561100850 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\carta.cpp
+	"carta.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1562095389 c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\mazo_de_cartas.h
+	"carta.h"
+	"lista_enlazada.h"
+
+1561087134 source:c:\users\tsiow_2\desktop\algoritmo 2\tp\tp2\mazo_de_cartas.cpp
+	"mazo_de_cartas.h"
+	<iostream>
+
